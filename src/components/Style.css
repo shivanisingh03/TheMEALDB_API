@@ -1,0 +1,268 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    /* color: #333; */
+  
+  }
+
+  #maindiv{
+    background: #2d2013;
+
+  }
+  #seconddiv{
+    width: 99vw; 
+    height: 20vh;
+    background: #23180d
+  }
+  
+  #thirddiv{
+    margin-top: 4vh ;
+    background: #23180d
+  }
+
+  #home1{
+    background: #c52d2f;
+    margin-left: 30vw;
+    width: 15vh;
+    height: 5vh
+  }
+
+#api{
+    margin-left: 2vh;
+    width: 15vh;
+    height: 5vh;
+    background-color: #23180d;
+    color: white;
+    border: #23180d
+}
+
+#Forum{
+    background: #23180d;
+    color: white;
+    border: #23180d;
+    margin-left: 2vh;
+    width: 15vh;
+    height: 5vh;
+}
+
+#img1{
+    background: #23180d;
+    color: white;
+    border: #23180d;
+    margin-left: 2vh; 
+    width: 10vh; height: 5vh
+}
+
+#img2{
+    margin-left: 2vh; 
+    width: 10vh; 
+    height: 6vh; 
+    background: #23180d;
+    color: white;
+    border: #23180d
+}
+
+#input1{
+    width: 4vw;
+    border-top-right-radius: 0; 
+    border-bottom-right-radius: 0
+}
+#divfour{
+    border: 1px solid #2d2013
+    ;background: #2d2013
+}
+#welcome{
+   margin-left: 34vw;
+   color: white
+}
+
+#divfive{
+    margin-top: -18vh
+}
+
+#p1{
+    margin-left: 24vw ;
+    margin-top: -13vw;color: white
+}
+
+#p2{
+    margin-left:23vw;
+    color: white
+}
+
+#button6{
+    margin-left: 44vw;
+    width: 25vh ;
+    height:5vh;
+    margin-top: -2.5vh;
+    background: #ffc439;
+     border-radius: 4px
+}
+#img3{
+    width: 4vw;
+    height: 5vh ;
+    margin-right: 5vw;
+    margin-top: 0.5vh
+}
+
+#p3{
+    margin-top: -5.5vh;
+    margin-left: 9vh;
+    color: black
+}
+
+#p4{
+    margin-left: 36vw;
+    margin-top:-2vh;
+    color: white
+}
+#p5{
+    margin-left:41vw;
+    margin-top: -2.5vh;color: white
+}
+
+#img4{
+    margin-left: 80vw; 
+    margin-top: -38vh
+}
+
+#divsix{
+    border: 1px solid #2d2013;
+    width: 99vw;
+    height: 25vh;
+    background: #2d2013
+}
+
+#hr1{
+        background: white;
+        width: 92vw;
+        height: 1px;
+        margin-top: 2vh;
+        margin-left: 4vh
+}
+
+#input2{
+    margin-left: 38vw;
+    width: 20vw;
+    height:5vh;
+    margin-top:2vh;
+    border-top-right-radius:0;
+    border-bottom-right-radius: 0
+}
+
+
+  #home{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    margin-left: 5vh
+  }
+  
+  #button7{
+    width: 3vw;
+    height: 5vh;
+    background: white;
+    color: black;
+     border: #2d2013
+  }
+  
+
+#icon{
+    color: black
+}
+
+#button8{
+    margin-top: -4vh;
+    color: Black;
+     width: 15vh;
+     height: 4vh;
+     background: white;
+     margin-left: 6vw
+}
+
+#hr2{
+        background: white;
+        width: 92vw;
+        height: 1px;
+        margin-top: 10vh;
+
+        margin-left: 4vh
+}
+
+#h5{
+   margin-top: -11vh;margin-left: 34vw;color: white
+}
+
+#h2{
+    margin-left: 15vw;
+    color: white
+}
+#h3{
+    margin-top: -3.5vw;
+     color: white
+}
+
+#img5{
+    margin-top: 1vh
+}
+
+#h22{
+    color: #d57d1f;
+     margin-left: 14vh;
+     margin-top: -0.3vh
+}
+s
+#button9{
+    margin-top: -4vh;
+    color: Black;
+    width: 15vh;
+    height: 4vh;
+    background: white
+}
+  #foodimg{
+    width: 20vw;
+    height: 30vh;
+    vertical-align: middle;
+    ;
+  }
+  
+  h1{
+    margin-right: 5vw;
+  }
+  
+  table,td{
+    background-color: aliceblue;
+    width: 50vw;
+    height: 10vh;
+    /* border: 1px double black; */
+    text-align: center;
+    margin: auto;
+  }
+  th{
+    font-size: 2pc;
+  }
+  
+  
+.span {
+    width: 40vw;
+    height: 5vh;
+    text-align: center;
+    color: white;
+}
+
+.total {
+    width: 50vw;
+    height: 7vh;
+    border: 2px solid #d57d1f;
+    display: flex;
+    flex-direction: row;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+
+
+
+
+
